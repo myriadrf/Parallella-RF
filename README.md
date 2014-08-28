@@ -1,4 +1,4 @@
-# Parallella-RF Module for the Parallella many-core Computing Plaform
+# Wideband SDR Transceiver for Parallella
 
 This repository contains the design and manufacturing files for an RF daughter card that adds 300MHz-3.8GHz broadband SDR transmit/receive capability to the [Parallella board](http://www.parallella.org).
 
